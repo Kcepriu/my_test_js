@@ -1,0 +1,88 @@
+{
+  "code": {
+    "code": "test",
+    "created_at": "2022-10-04 14:58:24",
+    "discount": null,
+    "id": 1,
+    "name": "test",
+    "percent": 10,
+    "type": "percent",
+    "updated_at": "2022-11-21 11:22:56"
+  },
+  "created_at": "2022-11-21 11:22:55",
+  "id": 15054,
+  "is_commercial": false,
+  "is_helper": false,
+  "is_oneclick": false,
+  "manager_id": null,
+  "order_number": "F-0000017074",
+  "order_position": [
+    {
+      "external_id": "c87094f2-db35-11eb-f692-00e081c8962d",
+      "item_id": 8978,
+      "price": "173.00",
+      "property": {
+        "discount_type": "dealer",
+        "discount": 25
+      },
+      "quantity": 1
+    }
+  ],
+  "payment_method": {
+    "code": "dealer-payment",
+    "id": 4,
+    "name": "Спосіб оплати буде погоджено"
+  },
+  "payment_method_id": 4,
+  "properties": {
+    "pickup_name": "Склад. Київська область, м.Бориспіль, вул. Привокзальна, 21",
+    "name": "Сергій",
+    "last_name": "Костюченко",
+    "phone": "0976841577",
+    "email": "admin@forward-ua.com",
+    "contact_name": "Сергій",
+    "contact_last_name": "Костюченко",
+    "contact_phone": "0976841577",
+    "client_ip": "213.159.251.123"
+  },
+  "shipping_type": {
+    "code": "pickup",
+    "id": 1,
+    "name": "Самовивіз"
+  },
+  "shipping_type_id": 1,
+  "status": {
+    "code": "new",
+    "id": 1,
+    "name": "Новий"
+  },
+  "status_id": 1,
+  "updated_at": "2022-11-21 11:22:56",
+  "user": {
+    "created_at": "2021-09-13 10:06:12",
+    "email": "admin@forward-ua.com",
+    "groupsList": [
+      {
+        "code": "dealers",
+        "id": 2,
+        "name": "Дилери"
+      },
+      {
+        "code": "ProfPriceToArcos",
+        "id": 6,
+        "name": "Проф. продажные цены на Аркос"
+      },
+      {
+        "code": "02",
+        "id": 7,
+        "name": "Партнер - ОДП-30-25-10"
+      }
+    ],
+    "id": 5,
+    "last_name": "Костюченко",
+    "name": "Сергій",
+    "phone": "0976841577",
+    "updated_at": "2022-11-21 11:22:36"
+  },
+  "user_id": 5
+}
